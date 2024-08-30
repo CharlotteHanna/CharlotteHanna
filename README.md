@@ -3,7 +3,7 @@
 <h2>React Projects:</h2>
 
 - <b>Movies App</b>
-  - [Praciting Basics in React](https://github.com/)
+  - [Praciting Basics in React](https://github.com/CharlotteHanna/Movies-React-App.git)
 
 <h2> 🤳 Connect with me:</h2>
 
