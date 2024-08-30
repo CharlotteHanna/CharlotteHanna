@@ -6,7 +6,7 @@
   - [Praciting Basics in React](https://github.com/CharlotteHanna/Movies-React-App.git)
 
 - <b>Rayban App</b>
-  - [Praciting Basics in React](https://github.com/CharlotteHanna/RayBan-React-App)
+  - [Praciting Basics in React and Tailwind css](https://github.com/CharlotteHanna/RayBan-React-App)
 
 <h2> 🤳 Connect with me:</h2>
 
