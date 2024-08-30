@@ -5,6 +5,9 @@
 - <b>Movies App</b>
   - [Praciting Basics in React](https://github.com/CharlotteHanna/Movies-React-App.git)
 
+- <b>Rayban App</b>
+  - [Praciting Basics in React](https://github.com/CharlotteHanna/RayBan-React-App)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Charlotte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
